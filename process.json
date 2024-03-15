@@ -1,0 +1,11 @@
+{
+    "apps": [
+      {
+        "name": "worker",
+        "script": "worker.js",
+        "instances": "4",
+        "exec_mode": "cluster"
+      }
+    ]
+  }
+  
